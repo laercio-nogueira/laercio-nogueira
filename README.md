@@ -11,6 +11,7 @@
      <a href="https://github.com/RaulRoberto/">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laercio-nogueira&layout=compact&theme=cobalt"/>
 </div>
+
      
 <div style="display: inline_block"><br>
      <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
