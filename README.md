@@ -16,12 +16,8 @@
      <img align="center" alt="Raul-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
      <img align="center" alt="Raul-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" />
      
-    
-     
-     
-          
-     
 </div>
+<br/>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laercio-nogueira&count_private=true&show_icons=true"/>
