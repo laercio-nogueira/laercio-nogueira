@@ -1,5 +1,8 @@
 ### Vida longa e prospera 🖖
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laercio-nogueira&count_private=true&show_icons=true"/>
+</div>
 <!--
 **laercio-nogueira/laercio-nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
